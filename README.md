@@ -1,5 +1,4 @@
-I am a PhD student of the Comparative Cognition lab in Neuchâtel,  co-supervised by [Prof. Steven Moran](https://www.unine.ch/evolang/home/team/steven-moran.html) & [Prof. Klaus Zuberbühler](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/klaus-zuberbuhler.html).  
-I am also a collaborator in the [NCCR evolving language project](https://evolvinglanguage.ch/).
+I am a PhD student of the Comparative Cognition lab in Neuchâtel,  co-supervised by [Prof. Steven Moran](https://www.unine.ch/evolang/home/team/steven-moran.html) & [Prof. Klaus Zuberbühler](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/klaus-zuberbuhler.html). I am also a collaborator in the [NCCR evolving language project](https://evolvinglanguage.ch/).
 
 - 🏠 [Homepage](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/quentin-gallot.html)
 - 📰 [Google scholar](https://scholar.google.com/citations?user=q7wp10UAAAAJ&hl=fr&oi=ao)
