@@ -1,8 +1,9 @@
-I am a PhD student of the Comparative Cognition lab in Neuchâtel,  supervised by [Prof. Klaus Zuberbühler](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/klaus-zuberbuhler.html) and a collaborator in the [NCCR evolving language project](https://evolvinglanguage.ch/).
+I am a PhD student of the Comparative Cognition lab in Neuchâtel,  co-supervised by [Prof. Steven Moran](https://www.unine.ch/evolang/home/team/steven-moran.html) & [Prof. Klaus Zuberbühler](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/klaus-zuberbuhler.html).  
+I am also a collaborator in the [NCCR evolving language project](https://evolvinglanguage.ch/).
 
 - 🏠 [Homepage](https://www.unine.ch/biologie/en/home/collaborators/laboratoire-de-cognition-compare/quentin-gallot.html)
 - 📰 [Google scholar](https://scholar.google.com/citations?user=q7wp10UAAAAJ&hl=fr&oi=ao)
-- [CV](https://github.com/QuentinGallot/QuentinGallot/blob/main/Quentin_Gallot_CV.pdf)
+- 🎓 [CV](https://github.com/QuentinGallot/QuentinGallot/blob/main/Quentin_Gallot_CV.pdf)
 
 Syntax can be defined as a set of principles by which meaning-bearing units (e.g., words in language) can be combined into well-formed complexes (e.g., phrases and sentences). It is one key component of human language. Its limitless expressive power requires permutation and rearrangement of abstract structures (termed phrases or sentences) above the word, often with concomitant changes in meaning. How this complex system of human syntax did evolve? This is an issue that has been of interest to researchers and well-studied in the recent years. The prevailing view is that the evolution of syntax was a gradual process, to the effect that its evolutionary history can be reconstructed by interspecies comparative evidence in primates. One of the toughest challenges is to explain the transition from non-hierarchical, 2-merge units in animal communication to generative, hierarchically structured, higher-order merges only characterize in human language. A number of hypotheses have been put forward, with no real consensus.
 
