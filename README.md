@@ -8,4 +8,4 @@ Syntax can be defined as a set of principles by which meaning-bearing units (e.g
 
 The aim of my research is to generate empirical evidence of combinatorial vocal systems in understudied monkey species in their natural habitat across the Taï National Park (Ivory Coast), especially the [olive colobus](https://en.wikipedia.org/wiki/Olive_colobus) (*Procolobus verus*). It will allow us to better understand how and why primate communication transitioned into that complex system of human syntax and develop a comprehensive evolutionary theory of syntax. I carry out observational studies and field experiments, using natural sound playbacks and visual predator model presentation, to assess the range of syntactic patterns and their flexibility in these species.
 
-![Olive colobus](https://github.com/QuentinGallot/QuentinGallot/blob/main/olive_colobus_QuentinGallot.png?raw=true)
+![Olive colobus](olive_colobus_QuentinGallot.png)
